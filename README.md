@@ -1,6 +1,6 @@
 # The Great Modpocalypse – Minecraft Like You’ve Never Survived Before
 
-![Modpocalypse Banner](./gallery/banner.png) <!-- Replace with your gallery image -->
+![Modpocalypse Banner](https://github.com/somethingisnotrightokay/The-Great-Modpocalypse/blob/96ebe02659b307b7cbb41bdcb030dc1e837b2eda/The%20Great%20Modpocalype.png) <!-- Replace with your gallery image -->
 
 366 mods of pure chaos, cinematic visuals, and mind-bending 3D animations designed to obliterate your expectations—and maybe your sanity. This isn’t just Minecraft—it’s a full-blown apocalypse, and your “potato” PC might just scrape through.
 
