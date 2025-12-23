@@ -252,18 +252,10 @@ yet_another_config_lib_v3-3.8.1+1.21.10-fabric.jar
 
 ---
 
-## ⚠️ Credit
-
-Credit to the creator of the **Boosted FPS modpack**; I only added ~350 more mods on top of their original pack, made for an actual potato PC.  
-[Boosted FPS on CurseForge](https://www.curseforge.com/minecraft/modpacks/boosted-fps)
-
----
 
 ## 🔗 Links
 
-- **Modpack Download (.mrpack):** [Modrinth Link Here]  
-- **GitHub Repository (configs & instance folder):** [GitHub Link Here]  
-- **Gallery Images & Assets:** `/gallery` folder in repo  
+- **Modpack Download (.mrpack):** [[Modrinth Link](https://modrinth.com/modpack/the-great-modpocalypse/)]  
 
 ---
 
