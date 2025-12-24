@@ -11,6 +11,10 @@ You are free to reuse, modify, and redistribute this modpack **as long as you gi
 **Required credit format (example 2):**
 > “Based on *The Great Modpocalypse* by Acoolguy2024  
 > "https://modrinth.com/modpack/the-great-modpocalypse”
+>
+> This modpack configuration is licensed under CC BY 4.0.
+   Individual mods retain their original licenses.
+   See each mod's page for specific licensing terms.
 
 -----------------------------------------------------------------------
 
